@@ -1,10 +1,10 @@
 import Vue from "vue";
 import VueRouter from 'vue-router'
 
-import home from "../views/home";
-import cart from "../views/cart";
-import profile from "../views/profile";
-import category from "../views/category";
+import home from "../views/home/home";
+import cart from "../views/cart/cart";
+import profile from "../views/profile/profile";
+import category from "../views/category/category";
 
 
 // const Home = () => import('../views/home')
